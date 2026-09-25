@@ -1,0 +1,11 @@
+transaction_id,date,description,category,amount
+T001,2026-09-01,AWS Payment,Technology,50000
+T002,2026-09-02,Office Rent,Operations,30000
+T003,2026-09-03,Employee Salary,Payroll,75000
+T004,2026-09-04,Electricity Bill,Utilities,12000
+T005,2026-09-05,Software Subscription,Technology,15000
+T006,2026-09-06,Travel Expense,Travel,8500
+T007,2026-09-07,Marketing Expense,Marketing,22000
+T008,2026-09-08,Office Supplies,Operations,6500
+T009,2026-09-09,Cloud Services,Technology,18000
+T010,2026-09-10,Client Dinner,Travel,7500
